@@ -1,0 +1,24 @@
+#principal{
+    width: 50%;
+    background-color: bisque;
+    margin: auto;
+    padding: 20px;
+
+}
+
+#titulo{
+    font-size: 20px;
+    text-align: center;
+}
+
+#formulario{
+    border: 3px solid coral;
+    width: 30%;
+    padding: 30px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto auto auto auto;
+    grid-row-gap: 10px;
+
+}
